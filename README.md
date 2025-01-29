@@ -1,11 +1,11 @@
 # About me
 
-I do stuff.
-
-Unless stated otherwise ALL content within created by me, without the aid of any
-"AI" or machine learning.
-
-[![my stuff is AI free](https://raw.githubusercontent.com/krayon/this-product-is-ai-free/main/badge.svg)](https://this-product-is-ai-free.github.io)
+- I do stuff
+- GitHub user 103,746
+- Unless stated otherwise ALL content within created by me, without the aid of
+  any "AI" or machine learning.
+  
+  [![my stuff is AI free](https://raw.githubusercontent.com/krayon/this-product-is-ai-free/main/badge.svg)](https://this-product-is-ai-free.github.io)
 
 ---
 
