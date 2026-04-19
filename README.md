@@ -2,8 +2,8 @@
 
 - I do stuff
 - GitHub user 103,746
-- Unless stated otherwise ALL content within created by me \[ :brain: \], without the aid of
-  any "AI"/machine learning [ :sparkles: ].
+- Unless stated otherwise all (source repository) content within is created by
+  me \[ :brain: \], without the aid of any "AI"/machine learning [ :sparkles: ].
   
   [![The AI Honesty project's 'no-AI' badge](inc/no-ai.svg "No AI used here")](https://www.aihonestybadge.com)
 
