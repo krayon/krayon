@@ -20,8 +20,9 @@
   - In the event *no* AI was used, the "No AI" badge will be displayed:
     - [![No AI](inc/no-ai-large.svg "No AI")](https://www.aihonestybadge.com)
 
-  - As stated above, in the event no badge at all is displayed, "No AI" is the
-    default state and is therefore implied.
+  - As stated above, in the event no badge at all is displayed, ***"No AI" is
+    the default state and is therefore implied unless explicitly stated
+    otherwise.***
 
 ---
 
