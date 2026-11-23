@@ -5,7 +5,23 @@
 - Unless stated otherwise all (source repository) content within is created by
   me \[ :brain: \], without the aid of any "AI"/machine learning [ :sparkles: ].
   
-  [![The AI Honesty project's 'no-AI' badge](inc/no-ai.svg "No AI used here")](https://www.aihonestybadge.com)
+  [![The AI Honesty project's (old) 'no-AI' badge](inc/no-ai-OG.svg "No AI used here")](https://www.aihonestybadge.com)
+
+# AI declaration
+
+  - In the event AI has been used to assist in development, the repository will
+    present the "AI Assisted" badge:
+    - [![AI Assisted](inc/ai-assisted-large.svg "AI Assisted")](https://www.aihonestybadge.com)
+
+  - In the event AI has been used for most of the development, the repository
+    will present the "AI Generated" badge:
+    - [![AI Generated](inc/ai-generated-large.svg "AI Generated")](https://www.aihonestybadge.com)
+
+  - In the event *no* AI was used, the "No AI" badge will be displayed:
+    - [![No AI](inc/no-ai-large.svg "No AI")](https://www.aihonestybadge.com)
+
+  - As stated above, in the event no badge at all is displayed, "No AI" is the
+    default state and is therefore implied.
 
 ---
 
